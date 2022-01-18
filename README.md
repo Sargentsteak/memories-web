@@ -1,5 +1,5 @@
-# memories-web
-CRUD Based application for creating memories.
+# memories-web MERN stack
+CRUD Based application for creating memories using the MERN stack.
 Ive used a MongoDb cloud platform for the backend.
 https://www.mongodb.com/basics/mongodb-atlas-tutorial for setting up the backend
 
